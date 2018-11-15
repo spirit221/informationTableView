@@ -1,0 +1,37 @@
+[
+  {
+    "firstName": "Sergey",
+    "lastName": "Ivanov",
+    "address": "Konovalova 8",
+    "phone": "+7 (999) 234-34-34",
+    "position": "developer" 
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Ivanov",
+    "address": "Dimitrov 45",
+    "phone": "+7 (999) 578-34-54",
+    "position": "manager" 
+  },  
+  {
+    "firstName": "Stas",
+    "lastName": "Koshelev",
+    "address": "Tribucha 32",
+    "phone": "+7 (999) 785-45-12",
+    "position": "developer" 
+  },  
+  {
+    "firstName": "Kirill",
+    "lastName": "Glitch",
+    "address": "Stoykosty 23",
+    "phone": "+7 (999) 856-45-23",
+    "position": "SEO" 
+  }, 
+   {
+    "firstName": "Misha",
+    "lastName": "Alias",
+    "address": "Nevsky 8",
+    "phone": "+7 (999) 123-23-44",
+    "position": "CEO" 
+  }
+ ]
