@@ -1,0 +1,1 @@
+простая реализация master-detailed 
